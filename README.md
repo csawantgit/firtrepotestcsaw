@@ -16,4 +16,4 @@ This is my first markdown overview line.
 1. [markdown-it] - Markdown parser done right. Fast and easy to extend
 
 
-And, this is a link to [www.google.com] (google).
+And, this is a link to [www.google.com](google).
