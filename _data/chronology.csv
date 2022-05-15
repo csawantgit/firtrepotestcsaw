@@ -1,3 +1,3 @@
-year	name	place
-1975	John	Anywhere
-1980	Doe	Somewhere
+year,name,place
+1975,John,Anywhere
+1980,Doe,Somewhere
