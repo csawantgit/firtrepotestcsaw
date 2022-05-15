@@ -1,5 +1,6 @@
 ---
 year: 1883
+layout: demo_template.html
 ---
 
 
