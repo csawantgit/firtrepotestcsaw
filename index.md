@@ -6,7 +6,7 @@ layout: demo_template.html
 
 # firtrepotestcsaw
 
-It all started in the year {{page.year}}.
+It all started in the year {{page.year}} by {{site.author}}.
 
 # Markdown Test Content
 
