@@ -8,6 +8,10 @@ layout: demo_template.html
 
 It all started in the year {{page.year}} by {{site.author}}.
 
+{% for item in site.data.chronology %}
+- {{ item.name }}, {{ item.place }}
+{% endfor %}
+
 # Markdown Test Content
 
 This is my first markdown **overview** line.
