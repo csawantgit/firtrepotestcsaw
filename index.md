@@ -29,3 +29,10 @@ This is my first markdown **overview** line.
 
 
 And, this is a link to [www.google.com](google).
+
+| Year | Place |
+| ----- | ----- |
+| 1825 | New Brunswick |
+| 1845 | Oregon |
+| 1870 | Quebec |
+| 1871 | Wisconsin |
