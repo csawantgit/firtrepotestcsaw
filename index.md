@@ -40,7 +40,8 @@ And, this is a link to [www.google.com](google).
 {% if Profile.PREFERED_LANGUAGE == "Spanish" %} 
 Hola!
 {% elsif Profile.PREFERED_LANGUAGE == "English" %}
-Hello! This is a conditonal tag example.
+Hello! 
+This is a conditonal tag example.
 {% else %}
 Hello!
 {% endif %}
