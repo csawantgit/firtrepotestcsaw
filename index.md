@@ -41,4 +41,6 @@ And, this is a link to [www.google.com](google).
 Hola!
 {% elsif Profile.PREFERED_LANGUAGE == "English" %}
 Hello!
+{% else %}
+Hello!
 {% endif %}
