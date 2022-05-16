@@ -40,7 +40,14 @@ And, this is a link to [www.google.com](google).
 {% if Profile.PREFERED_LANGUAGE == "Spanish" %} 
 Hola!
 {% elsif Profile.PREFERED_LANGUAGE == "English" %}
-Hello!
+Hello! This is a conditonal tag example.
 {% else %}
 Hello!
 {% endif %}
+
+
+{% assign eyes = "stars" %}
+The {{ eyes }} sparkled and twinkled like bejewelled
+sword handles.
+
+This is a variable test.
