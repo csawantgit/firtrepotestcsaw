@@ -36,3 +36,9 @@ And, this is a link to [www.google.com](google).
 | 1845 | Oregon |
 | 1870 | Quebec |
 | 1871 | Wisconsin |
+
+{% if Profile.PREFERED_LANGUAGE == "Spanish" %} 
+Hola!
+{% elsif Profile.PREFERED_LANGUAGE == "English" %}
+Hello!
+{% endif %}
