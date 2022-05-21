@@ -2,7 +2,7 @@
 year: 1883
 layout: demo_template
 ---
-
+{% include footer.txt %}
 
 # firtrepotestcsaw
 
