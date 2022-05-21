@@ -52,3 +52,18 @@ The {{ eyes }} sparkled and twinkled like bejewelled
 sword handles.
 
 This is a variable test.
+
+
+| Years | Company |
+| ... | ... |
+| 1972 | It happened |
+| 1999 | Did it happen |
+
+```
+imports requests
+printf ("This is a code block")
+```
+
+Issue the following command : `git clone...`
+
+![test image](https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)
