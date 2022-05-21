@@ -66,4 +66,4 @@ printf ("This is a code block")
 
 Issue the following command : `git clone...`
 
-![test image](https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)
+![test image](https://images.hindustantimes.com/img/2022/05/20/550x309/Grand_Canyon_of_Mars_Instagram_European_Space_Agency_Images_1653028759242_1653028771758.PNG)
