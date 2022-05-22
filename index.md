@@ -99,7 +99,7 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 		<li>Click **Create**.</li>
 		<li>Enter a name for your group, and click **Create**. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group `Billing-Editor-Access`.</li>
 	</ol>
-<ol>
+</ol>
 <li>Assign access to the group.</li>
 <ol>
 	<li>Click **Access policies** > **Assign access**.</li>
