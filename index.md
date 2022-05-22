@@ -109,6 +109,7 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 		</ul>
 		<li>Select all roles that apply.</li>
 		<li>Click **Add** > **Assign**.</li>
+	</ol>
 </ol>
 See [What makes a good access group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to best set-up your access groups.
 
