@@ -78,12 +78,12 @@ This tutorial walks you through the steps for setting up an account in IBM Cloud
 Complete the following steps to set your preferences for receiving various types of notifications:
 
 <ol>
-<li>To receive notifications about IBM Cloud platform-related, or resource-related items, go to the **Avatar** icon **Profile** > **Notification preferences**.</li>
+<li>To receive notifications about IBM Cloud platform-related, or resource-related items, go to the <b>Avatar</b> icon <b>Profile</b> > <b>Notification preferences</b>.</li>
 	<ul>
 		<li>When you set IBM Cloud platform notifications, you receive email notifications that are associated with only the platform. You do not receive notifications about events that are associated with IBM Cloud services. By default, all platform notifications are turned off.</li>
 		<li>If you update your preferences on resource activity, such as incidents, maintenance, security bulletins, or infrastructure service updates, the notifications are for only the services you use or the devices that you have provisioned. By default, all infrastructure notifications are turned off.</li>
 	</ul>
-<li>To receive spending notifications, go to **Manage** > **Billing and usage** > **Spending notifications** in the IBM Cloud console. Or, you can access it directly from the [Notification preferences](https://cloud.ibm.com/user/notifications) page by clicking **Manage** in the **Billing and Usage** section.</li>
+<li>To receive spending notifications, go to <b>Manage</b> > <b>Billing and usage</b> > <b>Spending notifications</b> in the IBM Cloud console. Or, you can access it directly from the <a href="https://cloud.ibm.com/user/notifications"> Notification preferences</a> page by clicking <b>Manage</b> in the <b>Billing and Usage</b> section.</li>
 </ol>
 
 You receive notifications when you reach 80%, 90%, and 100% of the spending thresholds that you specify. Enter the dollar amount to set a spending threshold when you set up your spending notification. For more information, see [Setting spending notifications](https://cloud.ibm.com/docs/billing-usage?topic=billing-usage-spending).
@@ -95,20 +95,20 @@ IAM access groups provide a way for you to quickly and easily assign access to m
 <ol>
 <li>Create an access group.</li>
 	<ol type="a">
-		<li>Go to **Manage** > **Access (IAM)** > **Access Groups** in the IBM Cloud console.</li>
-		<li>Click **Create**.</li>
-		<li>Enter a name for your group, and click **Create**. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group `Billing-Editor-Access`.</li>
+		<li>Go to <b>Manage</b> > <b>Access (IAM)</b> > <b>Access Groups</b> in the IBM Cloud console.</li>
+		<li>Click <b>Create</b>.</li>
+		<li>Enter a name for your group, and click <b>Create</b>. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group <code>Billing-Editor-Access</code>.</li>
 	</ol>
 <li>Assign access to the group.</li>
 	<ol type="a">
-		<li>Click **Access policies** > **Assign access**.</li>
+		<li>Click <b>Access policies</b> > <b>Assign access</b>.</li>
 		<li>Select the type of access to assign:</li>
 		<ul>
-			<li>**IAM services**: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.</li>
-			<li>**Account management services**: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.</li>
+			<li><b>IAM services</b>: Assigns access to IAM-enabled services, which are services that are managed by using IAM access control and assigned to a resource group.</li>
+			<li><b>Account management services</b>: Assigns access to manage platform services, such as billing, license and entitlements, and enterprises.</li>
 		</ul>
 		<li>Select all roles that apply.</li>
-		<li>Click **Add** > **Assign**.</li>
+		<li>Click <b>Add</b> > <b>Assign</b>.</li>
 	</ol>
 </ol>
 See [What makes a good access group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to best set-up your access groups.
